@@ -1,0 +1,26 @@
+C:\Users\Owner\source\repos\Homework2\Homework2\bin\Debug\Homework2.exe.config
+C:\Users\Owner\source\repos\Homework2\Homework2\bin\Debug\Homework2.exe
+C:\Users\Owner\source\repos\Homework2\Homework2\bin\Debug\Homework2.pdb
+C:\Users\Owner\source\repos\Homework2\Homework2\bin\Debug\Homework2.xml
+C:\Users\Owner\source\repos\Homework2\Homework2\obj\Debug\Homework2.vbprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Homework2\Homework2\obj\Debug\Homework2.frmPayroll.resources
+C:\Users\Owner\source\repos\Homework2\Homework2\obj\Debug\Homework2.Resources.resources
+C:\Users\Owner\source\repos\Homework2\Homework2\obj\Debug\Homework2.vbproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Homework2\Homework2\obj\Debug\Homework2.vbproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Homework2\Homework2\obj\Debug\Homework2.exe
+C:\Users\Owner\source\repos\Homework2\Homework2\obj\Debug\Homework2.xml
+C:\Users\Owner\source\repos\Homework2\Homework2\obj\Debug\Homework2.pdb
+C:\Users\Owner\source\repos\Homework2\Homework2\obj\Debug\Homework2.frmStats.resources
+C:\Users\Roberto Casadiego\source\repos\Homework2-1\Homework2\Homework2\bin\Debug\Homework2.exe.config
+C:\Users\Roberto Casadiego\source\repos\Homework2-1\Homework2\Homework2\bin\Debug\Homework2.exe
+C:\Users\Roberto Casadiego\source\repos\Homework2-1\Homework2\Homework2\bin\Debug\Homework2.pdb
+C:\Users\Roberto Casadiego\source\repos\Homework2-1\Homework2\Homework2\bin\Debug\Homework2.xml
+C:\Users\Roberto Casadiego\source\repos\Homework2-1\Homework2\Homework2\obj\Debug\Homework2.vbproj.AssemblyReference.cache
+C:\Users\Roberto Casadiego\source\repos\Homework2-1\Homework2\Homework2\obj\Debug\Homework2.frmPayroll.resources
+C:\Users\Roberto Casadiego\source\repos\Homework2-1\Homework2\Homework2\obj\Debug\Homework2.frmStats.resources
+C:\Users\Roberto Casadiego\source\repos\Homework2-1\Homework2\Homework2\obj\Debug\Homework2.Resources.resources
+C:\Users\Roberto Casadiego\source\repos\Homework2-1\Homework2\Homework2\obj\Debug\Homework2.vbproj.GenerateResource.cache
+C:\Users\Roberto Casadiego\source\repos\Homework2-1\Homework2\Homework2\obj\Debug\Homework2.vbproj.CoreCompileInputs.cache
+C:\Users\Roberto Casadiego\source\repos\Homework2-1\Homework2\Homework2\obj\Debug\Homework2.exe
+C:\Users\Roberto Casadiego\source\repos\Homework2-1\Homework2\Homework2\obj\Debug\Homework2.xml
+C:\Users\Roberto Casadiego\source\repos\Homework2-1\Homework2\Homework2\obj\Debug\Homework2.pdb

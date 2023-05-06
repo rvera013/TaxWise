@@ -1,0 +1,47 @@
+Emp ID,Emp Last Name,Emp First Name,Job Code,Dept,Eval Score
+396399,Albert,Carlos,E601,ADMIN,82
+736552,Alvarado,Samantha,E428,EXEC,75
+212153,Alvarez,Katherine,E513,EXEC,94
+395636,Andrews,Shara,E428,HR,78
+331485,Angee,Marlene,E425,HR,91
+397926,Barkley,Sheral,E601,EXEC,94
+411058,Bartlett,Maria,E513,SALES,81
+514244,Bridgewater,Richard,E428,EXEC,75
+570001,Camacho,Michelle,E538,ACCT,80
+293402,Cardona,Savanah,E601,SALES,81
+244435,Chavez,Ronaldo,E513,EXEC,90
+400978,Del Rio,Daniel,E425,HR,68
+325947,Dos Santos,Stephanie,E601,ADMIN,68
+321651,Estevez,Andrea,E513,ACCT,77
+400215,Fisher,Jared,E428,HR,72
+402504,Flores,Valerie,E538,SALES,92
+474062,Fouche,Sonia,E428,EXEC,83
+679934,Garcia,Carlos,E428,ACCT,70
+570001,Garmen,Roberto,E538,EXEC,62
+340616,Gilbert,Sandra,E425,ACCT,98
+355433,Gilman,Javier,E538,ADMIN,91
+419293,Glaser,Manuel,E601,HR,91
+417767,Gonzalez,Sharrie,E428,SALES,94
+418530,Gonzalez,Mariya,E428,EXEC,85
+417004,Hawkins,Fernando,E538,HR,87
+416240,Jacques,Alvin,E513,EXEC,95
+415477,Lopez,Debora,E425,HR,78
+414714,Louis,Clarence,E601,HR,93
+413951,Macias,Jennifer,E513,HR,85
+401741,McMillan,Jared,E538,SALES,65
+404031,Mendoza,Valerie,E425,SALES,88
+404794,Morris,Isabella,E425,EXEC,97
+397163,Munoz,Antonio,E428,EXEC,76
+412425,Navarro,Marvin,E601,ADMIN,94
+411662,Par,Nikolai,E535,HR,82
+410899,Pereira,Caryn,E425,HR,62
+403267,Ponce,David,E538,HR,81
+410135,Quinn,Ingrid,E513,EXEC,77
+409372,Robinson,Warebi,E538,ADMIN,66
+408609,Rodriguez,Nicholas,E513,ADMIN,76
+405557,Rodriguez,Thamara,E425,SALES,84
+407846,Roque,Adrian,E535,SALES,91
+407083,Salas,Dennis,E538,HR,70
+398689,Warner,Andy,E538,EXEC,83
+399452,Williams,Deborah,E513,ADMIN,70
+406320,Zapata,Natalie,E425,SALES,69
